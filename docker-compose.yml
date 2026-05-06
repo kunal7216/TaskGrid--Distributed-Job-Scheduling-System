@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  job-scheduler-app:
+    build: .
+    container_name: distributed-job-scheduler
+    ports:
+      - "8080:8080"
