@@ -1,4 +1,4 @@
-# Distributed Job Scheduling System
+# TaskGrid -- Distributed Job Scheduling System
 
 A Spring Boot backend system that simulates a distributed job scheduling platform capable of queuing, scheduling, executing, retrying, monitoring and dead-lettering background jobs.
 
