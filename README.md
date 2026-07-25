@@ -236,6 +236,5 @@ CRITICAL > HIGH > MEDIUM > LOW
 - Multi-tenant queues
 
 ## Author
-
 Kunal Kumar  
 GitHub: https://github.com/kunal7216
